@@ -1,4 +1,3 @@
-code : 
 #define DP_SIZE 1000
 bool dp[DP_SIZE][DP_SIZE]={0};
 
